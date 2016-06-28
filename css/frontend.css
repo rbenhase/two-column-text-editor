@@ -1,0 +1,6 @@
+/* frontend.css */
+.fl-two-column-text > div {
+  width: 50%;
+  box-sizing:border-box;
+  float:left;
+}
